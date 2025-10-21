@@ -38,8 +38,8 @@
     },
     {
       "src": "DeveloperGuide.md",
-      "title": "Developer Guide",
       "headings": {
+        "ault-md-title-and-quot-developer-guide-and-quot-pagenav-3": "ault.md\ntitle: &quot;Developer Guide&quot;\npageNav: 3",
         "ab-3-developer-guide": "AB-3 Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
@@ -108,7 +108,6 @@
       "title": "User Guide",
       "headings": {
         "lambdalab-user-guide": "LambdaLab User Guide",
-        "lambdalab-is-a-desktop-app-for-cs2030s-teaching-assistants-to-manage-student-records-optimised-for-use-via-a-command-line-interface-cli-while-still-having-an-intuitive-graphical-user-interface-gui-if-you-are-a-fast-typer-lambdalab-can-help-you-track-student-information-lab-attendance-and-exercise-submissions-even-faster-than-traditional-spreadsheets-or-gui-apps": "LambdaLab is a desktop app for CS2030S Teaching Assistants to manage student records, optimised for use via a\nCommand Line Interface (CLI) while still having an intuitive Graphical User Interface (GUI). If you are a fast typer,\nLambdaLab can help you track student information, lab attendance, and exercise submissions even faster than traditional\nspreadsheets or GUI apps.",
         "table-of-contents": "Table of Contents",
         "quick-start": "Quick start",
         "features": "Features",
@@ -118,11 +117,15 @@
         "editing-a-student-edit": "Editing a student : edit",
         "marking-lab-attendance-marka": "Marking Lab Attendance: marka",
         "marking-exercise-status-marke": "Marking Exercise Status: marke",
+        "assigning-assessment-score-grade": "Assigning Assessment Score: grade",
         "locating-students-by-name-find": "Locating students by name: find",
         "sorting-the-students-sort": "Sorting the students: sort",
         "deleting-a-student-delete": "Deleting a student : delete",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "undoing-the-last-command-undo": "Undoing the last command : undo",
+        "blocking-a-timeslot-block-timeslot": "Blocking a timeslot : block-timeslot",
+        "retrieving-merged-timeslot-ranges-get-timeslots": "Retrieving merged timeslot ranges : get-timeslots",
+        "clearing-all-timeslots-clear-timeslots": "Clearing all timeslots : clear-timeslots",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
